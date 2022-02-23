@@ -1,0 +1,265 @@
+[{
+  "_id": {
+    "$oid": "616688333b4be3806013abdb"
+  },
+  "Time_from": "8",
+  "Time_to": "9",
+  "Prod_Plan_Qtny": "2250",
+  "Cumm_Plan_Qtny": "2250",
+  "Shift": "Day",
+  "Operator_Name": "Viraj",
+  "Shift_Plan_Qtny": "40500"
+},{
+  "_id": {
+    "$oid": "616688333b4be3806013abdc"
+  },
+  "Time_from": "9",
+  "Time_to": "10",
+  "Prod_Plan_Qtny": "3375",
+  "Cumm_Plan_Qtny": "5625",
+  "Shift": "Day",
+  "Operator_Name": "Viraj",
+  "Shift_Plan_Qtny": "40500"
+},{
+  "_id": {
+    "$oid": "616688333b4be3806013abdd"
+  },
+  "Time_from": "10",
+  "Time_to": "11",
+  "Prod_Plan_Qtny": "4500",
+  "Cumm_Plan_Qtny": "10125",
+  "Shift": "Day",
+  "Operator_Name": "Viraj",
+  "Shift_Plan_Qtny": "40500"
+},{
+  "_id": {
+    "$oid": "616688333b4be3806013abde"
+  },
+  "Time_from": "11",
+  "Time_to": "12",
+  "Prod_Plan_Qtny": "4500",
+  "Cumm_Plan_Qtny": "14625",
+  "Shift": "Day",
+  "Operator_Name": "Viraj",
+  "Shift_Plan_Qtny": "40500"
+},{
+  "_id": {
+    "$oid": "616688333b4be3806013abdf"
+  },
+  "Time_from": "12",
+  "Time_to": "1",
+  "Prod_Plan_Qtny": "2250",
+  "Cumm_Plan_Qtny": "16875",
+  "Shift": "Day",
+  "Operator_Name": "Viraj",
+  "Shift_Plan_Qtny": "40500"
+},{
+  "_id": {
+    "$oid": "616688333b4be3806013abe0"
+  },
+  "Time_from": "1",
+  "Time_to": "2",
+  "Prod_Plan_Qtny": "4500",
+  "Cumm_Plan_Qtny": "21375",
+  "Shift": "Day",
+  "Operator_Name": "Viraj",
+  "Shift_Plan_Qtny": "40500"
+},{
+  "_id": {
+    "$oid": "616688333b4be3806013abe1"
+  },
+  "Time_from": "2",
+  "Time_to": "3",
+  "Prod_Plan_Qtny": "3375",
+  "Cumm_Plan_Qtny": "24750",
+  "Shift": "Day",
+  "Operator_Name": "Viraj",
+  "Shift_Plan_Qtny": "40500"
+},{
+  "_id": {
+    "$oid": "616688333b4be3806013abe2"
+  },
+  "Time_from": "3",
+  "Time_to": "4",
+  "Prod_Plan_Qtny": "4500",
+  "Cumm_Plan_Qtny": "29250",
+  "Shift": "Day",
+  "Operator_Name": "Viraj",
+  "Shift_Plan_Qtny": "40500"
+},{
+  "_id": {
+    "$oid": "616688333b4be3806013abe3"
+  },
+  "Time_from": "4",
+  "Time_to": "5",
+  "Prod_Plan_Qtny": "4500",
+  "Cumm_Plan_Qtny": "33750",
+  "Shift": "Day",
+  "Operator_Name": "Viraj",
+  "Shift_Plan_Qtny": "40500"
+},{
+  "_id": {
+    "$oid": "616688333b4be3806013abe4"
+  },
+  "Time_from": "5",
+  "Time_to": "6",
+  "Prod_Plan_Qtny": "4500",
+  "Cumm_Plan_Qtny": "38250",
+  "Shift": "Day",
+  "Operator_Name": "Viraj",
+  "Shift_Plan_Qtny": "40500"
+},{
+  "_id": {
+    "$oid": "616688333b4be3806013abe5"
+  },
+  "Time_from": "6",
+  "Time_to": "7",
+  "Prod_Plan_Qtny": "2250",
+  "Cumm_Plan_Qtny": "40500",
+  "Shift": "Day",
+  "Operator_Name": "Viraj",
+  "Shift_Plan_Qtny": "40500"
+},{
+  "_id": {
+    "$oid": "616688333b4be3806013abe6"
+  },
+  "Time_from": "7",
+  "Time_to": "8",
+  "Prod_Plan_Qtny": "4500",
+  "Cumm_Plan_Qtny": "4500",
+  "Shift": "Night",
+  "Operator_Name": "Malith",
+  "Shift_Plan_Qtny": "51750"
+},{
+  "_id": {
+    "$oid": "616688333b4be3806013abe7"
+  },
+  "Time_from": "8",
+  "Time_to": "9",
+  "Prod_Plan_Qtny": "2250",
+  "Cumm_Plan_Qtny": "6750",
+  "Shift": "Night",
+  "Operator_Name": "Malith",
+  "Shift_Plan_Qtny": "51750"
+},{
+  "_id": {
+    "$oid": "616688333b4be3806013abe8"
+  },
+  "Time_from": "9",
+  "Time_to": "10",
+  "Prod_Plan_Qtny": "4500",
+  "Cumm_Plan_Qtny": "11250",
+  "Shift": "Night",
+  "Operator_Name": "Malith",
+  "Shift_Plan_Qtny": "51750"
+},{
+  "_id": {
+    "$oid": "616688333b4be3806013abe9"
+  },
+  "Time_from": "10",
+  "Time_to": "11",
+  "Prod_Plan_Qtny": "4500",
+  "Cumm_Plan_Qtny": "15750",
+  "Shift": "Night",
+  "Operator_Name": "Malith",
+  "Shift_Plan_Qtny": "51750"
+},{
+  "_id": {
+    "$oid": "616688333b4be3806013abea"
+  },
+  "Time_from": "11",
+  "Time_to": "12",
+  "Prod_Plan_Qtny": "4500",
+  "Cumm_Plan_Qtny": "20250",
+  "Shift": "Night",
+  "Operator_Name": "Malith",
+  "Shift_Plan_Qtny": "51750"
+},{
+  "_id": {
+    "$oid": "616688333b4be3806013abeb"
+  },
+  "Time_from": "12",
+  "Time_to": "1",
+  "Prod_Plan_Qtny": "3375",
+  "Cumm_Plan_Qtny": "23625",
+  "Shift": "Night",
+  "Operator_Name": "Malith",
+  "Shift_Plan_Qtny": "51750"
+},{
+  "_id": {
+    "$oid": "616688333b4be3806013abec"
+  },
+  "Time_from": "1",
+  "Time_to": "2",
+  "Prod_Plan_Qtny": "4500",
+  "Cumm_Plan_Qtny": "28125",
+  "Shift": "Night",
+  "Operator_Name": "Malith",
+  "Shift_Plan_Qtny": "51750"
+},{
+  "_id": {
+    "$oid": "616688333b4be3806013abed"
+  },
+  "Time_from": "2",
+  "Time_to": "3",
+  "Prod_Plan_Qtny": "4500",
+  "Cumm_Plan_Qtny": "32625",
+  "Shift": "Night",
+  "Operator_Name": "Malith",
+  "Shift_Plan_Qtny": "51750"
+},{
+  "_id": {
+    "$oid": "616688333b4be3806013abee"
+  },
+  "Time_from": "3",
+  "Time_to": "4",
+  "Prod_Plan_Qtny": "3375",
+  "Cumm_Plan_Qtny": "36000",
+  "Shift": "Night",
+  "Operator_Name": "Malith",
+  "Shift_Plan_Qtny": "51750"
+},{
+  "_id": {
+    "$oid": "616688333b4be3806013abef"
+  },
+  "Time_from": "4",
+  "Time_to": "5",
+  "Prod_Plan_Qtny": "4500",
+  "Cumm_Plan_Qtny": "40500",
+  "Shift": "Night",
+  "Operator_Name": "Malith",
+  "Shift_Plan_Qtny": "51750"
+},{
+  "_id": {
+    "$oid": "616688333b4be3806013abf0"
+  },
+  "Time_from": "5",
+  "Time_to": "6",
+  "Prod_Plan_Qtny": "4500",
+  "Cumm_Plan_Qtny": "45000",
+  "Shift": "Night",
+  "Operator_Name": "Malith",
+  "Shift_Plan_Qtny": "51750"
+},{
+  "_id": {
+    "$oid": "616688333b4be3806013abf1"
+  },
+  "Time_from": "6",
+  "Time_to": "7",
+  "Prod_Plan_Qtny": "3375",
+  "Cumm_Plan_Qtny": "48375",
+  "Shift": "Night",
+  "Operator_Name": "Malith",
+  "Shift_Plan_Qtny": "51750"
+},{
+  "_id": {
+    "$oid": "616688333b4be3806013abf2"
+  },
+  "Time_from": "7",
+  "Time_to": "8",
+  "Prod_Plan_Qtny": "3375",
+  "Cumm_Plan_Qtny": "51750",
+  "Shift": "Night",
+  "Operator_Name": "Malith",
+  "Shift_Plan_Qtny": "51750"
+}]

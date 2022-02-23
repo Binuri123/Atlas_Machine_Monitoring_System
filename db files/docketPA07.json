@@ -1,0 +1,6931 @@
+[{
+  "_id": {
+    "$oid": "6166b527260e0d86bf52429f"
+  },
+  "Date": "Wed Oct 13 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "29250",
+  "Final_Output": "4822",
+  "Cummilative_Output": "4895",
+  "Refill_Rejection": "1",
+  "Plug_Rejection": "11",
+  "Cap_Rejection": "91"
+},{
+  "_id": {
+    "$oid": "6166c337260e0d86bf5242a0"
+  },
+  "Date": "Wed Oct 13 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "33750",
+  "Final_Output": "1018",
+  "Cummilative_Output": "1018",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "2",
+  "Cap_Rejection": "39"
+},{
+  "_id": {
+    "$oid": "6166d147260e0d86bf5242a1"
+  },
+  "Date": "Wed Oct 13 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "38250",
+  "Final_Output": "1018",
+  "Cummilative_Output": "1018",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "2",
+  "Cap_Rejection": "39"
+},{
+  "_id": {
+    "$oid": "6166df57260e0d86bf5242a2"
+  },
+  "Date": "Wed Oct 13 2021",
+  "Time_from": "6",
+  "Time_to": "7",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "40500",
+  "Final_Output": "1018",
+  "Cummilative_Output": "1018",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "2",
+  "Cap_Rejection": "39"
+},{
+  "_id": {
+    "$oid": "6166ed67260e0d86bf5242a3"
+  },
+  "Date": "Wed Oct 13 2021",
+  "Time_from": "7",
+  "Time_to": "8",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "4500",
+  "Final_Output": "1018",
+  "Cummilative_Output": "1018",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "2",
+  "Cap_Rejection": "39"
+},{
+  "_id": {
+    "$oid": "6166fb77260e0d86bf5242a4"
+  },
+  "Date": "Wed Oct 13 2021",
+  "Time_from": "8",
+  "Time_to": "9",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "6750",
+  "Final_Output": "1018",
+  "Cummilative_Output": "1018",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "2",
+  "Cap_Rejection": "39"
+},{
+  "_id": {
+    "$oid": "61670987260e0d86bf5242a5"
+  },
+  "Date": "Wed Oct 13 2021",
+  "Time_from": "9",
+  "Time_to": "10",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "11250",
+  "Final_Output": "1018",
+  "Cummilative_Output": "1018",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "2",
+  "Cap_Rejection": "39"
+},{
+  "_id": {
+    "$oid": "61671797260e0d86bf5242a6"
+  },
+  "Date": "Wed Oct 13 2021",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "15750",
+  "Final_Output": "1018",
+  "Cummilative_Output": "1018",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "2",
+  "Cap_Rejection": "39"
+},{
+  "_id": {
+    "$oid": "616725a7260e0d86bf5242a7"
+  },
+  "Date": "Wed Oct 13 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "20250",
+  "Final_Output": "1018",
+  "Cummilative_Output": "1018",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "2",
+  "Cap_Rejection": "39"
+},{
+  "_id": {
+    "$oid": "616733b7260e0d86bf5242a8"
+  },
+  "Date": "Thu Oct 14 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "23625",
+  "Final_Output": "1018",
+  "Cummilative_Output": "1018",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "2",
+  "Cap_Rejection": "39"
+},{
+  "_id": {
+    "$oid": "6167b247c0ea1867d4b42ee3"
+  },
+  "Date": "Thu Oct 14 2021",
+  "Time_from": "9",
+  "Time_to": "10",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "5625",
+  "Final_Output": "0",
+  "Cummilative_Output": "1018",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "6167c0574aa560a10210338a"
+  },
+  "Date": "Thu Oct 14 2021",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "10125",
+  "Final_Output": "0",
+  "Cummilative_Output": "1018",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "6167ce674aa560a10210338b"
+  },
+  "Date": "Thu Oct 14 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "14625",
+  "Final_Output": "0",
+  "Cummilative_Output": "1018",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "6167dc774aa560a10210338c"
+  },
+  "Date": "Thu Oct 14 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "16875",
+  "Final_Output": "0",
+  "Cummilative_Output": "1018",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "6167ea874aa560a10210338d"
+  },
+  "Date": "Thu Oct 14 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "21375",
+  "Final_Output": "0",
+  "Cummilative_Output": "1018",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "6167f8974aa560a10210338e"
+  },
+  "Date": "Thu Oct 14 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "24750",
+  "Final_Output": "0",
+  "Cummilative_Output": "1018",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "616806a74aa560a10210338f"
+  },
+  "Date": "Thu Oct 14 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "29250",
+  "Final_Output": "0",
+  "Cummilative_Output": "1018",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "2",
+  "Cap_Rejection": "1"
+},{
+  "_id": {
+    "$oid": "616d065719af1931a87e5dff"
+  },
+  "Date": "Mon Oct 18 2021",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "10125",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "616d146719af1931a87e5e00"
+  },
+  "Date": "Mon Oct 18 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "14625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "616d227719af1931a87e5e01"
+  },
+  "Date": "Mon Oct 18 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "16875",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "616d308719af1931a87e5e02"
+  },
+  "Date": "Mon Oct 18 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "21375",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "616d3e9719af1931a87e5e03"
+  },
+  "Date": "Mon Oct 18 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "24750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "616d4ca719af1931a87e5e04"
+  },
+  "Date": "Mon Oct 18 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "29250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "616d5ab719af1931a87e5e05"
+  },
+  "Date": "Mon Oct 18 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "33750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61728497f59e6a9b1beeb482"
+  },
+  "Date": "Fri Oct 22 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "24750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617292a7f59e6a9b1beeb483"
+  },
+  "Date": "Fri Oct 22 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "29250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6172a0b7f59e6a9b1beeb484"
+  },
+  "Date": "Fri Oct 22 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "33750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6172aec7f59e6a9b1beeb485"
+  },
+  "Date": "Fri Oct 22 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "38250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6172bcd7f59e6a9b1beeb486"
+  },
+  "Date": "Fri Oct 22 2021",
+  "Time_from": "6",
+  "Time_to": "7",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "40500",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "6172cae7f59e6a9b1beeb487"
+  },
+  "Date": "Fri Oct 22 2021",
+  "Time_from": "7",
+  "Time_to": "8",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "4500",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "6172d8f7f59e6a9b1beeb488"
+  },
+  "Date": "Fri Oct 22 2021",
+  "Time_from": "8",
+  "Time_to": "9",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "6750",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "6172e707f59e6a9b1beeb489"
+  },
+  "Date": "Fri Oct 22 2021",
+  "Time_from": "9",
+  "Time_to": "10",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "11250",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "6172f517f59e6a9b1beeb48a"
+  },
+  "Date": "Fri Oct 22 2021",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "15750",
+  "Final_Output": "396",
+  "Cummilative_Output": "396",
+  "Refill_Rejection": "3",
+  "Plug_Rejection": "51",
+  "Cap_Rejection": "29"
+},{
+  "_id": {
+    "$oid": "61730327f59e6a9b1beeb48b"
+  },
+  "Date": "Fri Oct 22 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "20250",
+  "Final_Output": "1242",
+  "Cummilative_Output": "1638",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "26",
+  "Cap_Rejection": "64"
+},{
+  "_id": {
+    "$oid": "61731137f59e6a9b1beeb48c"
+  },
+  "Date": "Sat Oct 23 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "23625",
+  "Final_Output": "3485",
+  "Cummilative_Output": "3881",
+  "Refill_Rejection": "5",
+  "Plug_Rejection": "37",
+  "Cap_Rejection": "112"
+},{
+  "_id": {
+    "$oid": "61731f47f59e6a9b1beeb48d"
+  },
+  "Date": "Sat Oct 23 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "28125",
+  "Final_Output": "5445",
+  "Cummilative_Output": "9332",
+  "Refill_Rejection": "10",
+  "Plug_Rejection": "23",
+  "Cap_Rejection": "26"
+},{
+  "_id": {
+    "$oid": "61732d57f59e6a9b1beeb48e"
+  },
+  "Date": "Sat Oct 23 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "32625",
+  "Final_Output": "4964",
+  "Cummilative_Output": "14298",
+  "Refill_Rejection": "16",
+  "Plug_Rejection": "6",
+  "Cap_Rejection": "56"
+},{
+  "_id": {
+    "$oid": "61733b67f59e6a9b1beeb48f"
+  },
+  "Date": "Sat Oct 23 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "36000",
+  "Final_Output": "4837",
+  "Cummilative_Output": "19137",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "14",
+  "Cap_Rejection": "41"
+},{
+  "_id": {
+    "$oid": "61734977f59e6a9b1beeb490"
+  },
+  "Date": "Sat Oct 23 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "40500",
+  "Final_Output": "5314",
+  "Cummilative_Output": "24455",
+  "Refill_Rejection": "10",
+  "Plug_Rejection": "17",
+  "Cap_Rejection": "18"
+},{
+  "_id": {
+    "$oid": "61735787f59e6a9b1beeb491"
+  },
+  "Date": "Sat Oct 23 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "45000",
+  "Final_Output": "421",
+  "Cummilative_Output": "24878",
+  "Refill_Rejection": "1",
+  "Plug_Rejection": "3",
+  "Cap_Rejection": "11"
+},{
+  "_id": {
+    "$oid": "61736597f59e6a9b1beeb492"
+  },
+  "Date": "Sat Oct 23 2021",
+  "Time_from": "6",
+  "Time_to": "7",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "48375",
+  "Final_Output": "0",
+  "Cummilative_Output": "24878",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "617373a7f59e6a9b1beeb493"
+  },
+  "Date": "Sat Oct 23 2021",
+  "Time_from": "7",
+  "Time_to": "8",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "51750",
+  "Final_Output": "1891",
+  "Cummilative_Output": "26769",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "2",
+  "Cap_Rejection": "25"
+},{
+  "_id": {
+    "$oid": "617381b7f59e6a9b1beeb494"
+  },
+  "Date": "Sat Oct 23 2021",
+  "Time_from": "8",
+  "Time_to": "9",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "2250",
+  "Final_Output": "4028",
+  "Cummilative_Output": "4028",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "1",
+  "Cap_Rejection": "60"
+},{
+  "_id": {
+    "$oid": "61765cf79f88789ea1109c98"
+  },
+  "Date": "Mon Oct 25 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "16875",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61766b079f88789ea1109c99"
+  },
+  "Date": "Mon Oct 25 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "21375",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617679179f88789ea1109c9a"
+  },
+  "Date": "Mon Oct 25 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "24750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617687279f88789ea1109c9b"
+  },
+  "Date": "Mon Oct 25 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "29250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617695377507d4704cd1f1a4"
+  },
+  "Date": "Mon Oct 25 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "33750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6176a3477507d4704cd1f1a5"
+  },
+  "Date": "Mon Oct 25 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "38250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6176b1577507d4704cd1f1a6"
+  },
+  "Date": "Mon Oct 25 2021",
+  "Time_from": "6",
+  "Time_to": "7",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "40500",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6176bf677507d4704cd1f1a7"
+  },
+  "Date": "Mon Oct 25 2021",
+  "Time_from": "7",
+  "Time_to": "8",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "4500",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6176cd777507d4704cd1f1a8"
+  },
+  "Date": "Mon Oct 25 2021",
+  "Time_from": "8",
+  "Time_to": "9",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "6750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6176db877507d4704cd1f1a9"
+  },
+  "Date": "Mon Oct 25 2021",
+  "Time_from": "9",
+  "Time_to": "10",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "11250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6176e9977507d4704cd1f1aa"
+  },
+  "Date": "Mon Oct 25 2021",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "15750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6176f7a77507d4704cd1f1ab"
+  },
+  "Date": "Mon Oct 25 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "20250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617705b77507d4704cd1f1ac"
+  },
+  "Date": "Tue Oct 26 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "23625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617713c77507d4704cd1f1ad"
+  },
+  "Date": "Tue Oct 26 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "28125",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617721d77507d4704cd1f1ae"
+  },
+  "Date": "Tue Oct 26 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "32625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61772fe77507d4704cd1f1af"
+  },
+  "Date": "Tue Oct 26 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "36000",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61773df77507d4704cd1f1b0"
+  },
+  "Date": "Tue Oct 26 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "40500",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61774c077507d4704cd1f1b1"
+  },
+  "Date": "Tue Oct 26 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "45000",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61775a177507d4704cd1f1b2"
+  },
+  "Date": "Tue Oct 26 2021",
+  "Time_from": "6",
+  "Time_to": "7",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "48375",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617768277507d4704cd1f1b3"
+  },
+  "Date": "Tue Oct 26 2021",
+  "Time_from": "7",
+  "Time_to": "8",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "51750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617776377507d4704cd1f1b4"
+  },
+  "Date": "Tue Oct 26 2021",
+  "Time_from": "8",
+  "Time_to": "9",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "2250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617784477507d4704cd1f1b5"
+  },
+  "Date": "Tue Oct 26 2021",
+  "Time_from": "9",
+  "Time_to": "10",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "5625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617792577507d4704cd1f1b6"
+  },
+  "Date": "Tue Oct 26 2021",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "10125",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6177a0677507d4704cd1f1b7"
+  },
+  "Date": "Tue Oct 26 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "14625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6177ae777507d4704cd1f1b8"
+  },
+  "Date": "Tue Oct 26 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "16875",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6177bc877507d4704cd1f1b9"
+  },
+  "Date": "Tue Oct 26 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "21375",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6177ca977507d4704cd1f1ba"
+  },
+  "Date": "Tue Oct 26 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "24750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6177d8a77507d4704cd1f1bb"
+  },
+  "Date": "Tue Oct 26 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "29250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6177e6b77507d4704cd1f1bc"
+  },
+  "Date": "Tue Oct 26 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "33750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6177f4c77507d4704cd1f1bd"
+  },
+  "Date": "Tue Oct 26 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "38250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617802d77507d4704cd1f1be"
+  },
+  "Date": "Tue Oct 26 2021",
+  "Time_from": "6",
+  "Time_to": "7",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "40500",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617810e77507d4704cd1f1bf"
+  },
+  "Date": "Tue Oct 26 2021",
+  "Time_from": "7",
+  "Time_to": "8",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "4500",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61781ef77507d4704cd1f1c0"
+  },
+  "Date": "Tue Oct 26 2021",
+  "Time_from": "8",
+  "Time_to": "9",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "6750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61782d077507d4704cd1f1c1"
+  },
+  "Date": "Tue Oct 26 2021",
+  "Time_from": "9",
+  "Time_to": "10",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "11250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61783b177507d4704cd1f1c2"
+  },
+  "Date": "Tue Oct 26 2021",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "15750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617849277507d4704cd1f1c3"
+  },
+  "Date": "Tue Oct 26 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "20250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617857377507d4704cd1f1c4"
+  },
+  "Date": "Wed Oct 27 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "23625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617865477507d4704cd1f1c5"
+  },
+  "Date": "Wed Oct 27 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "28125",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617873577507d4704cd1f1c6"
+  },
+  "Date": "Wed Oct 27 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "32625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617881677507d4704cd1f1c7"
+  },
+  "Date": "Wed Oct 27 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "36000",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61788f777507d4704cd1f1c8"
+  },
+  "Date": "Wed Oct 27 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "40500",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61789d877507d4704cd1f1c9"
+  },
+  "Date": "Wed Oct 27 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "45000",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6178ab977507d4704cd1f1ca"
+  },
+  "Date": "Wed Oct 27 2021",
+  "Time_from": "6",
+  "Time_to": "7",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "48375",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6178b9a77507d4704cd1f1cb"
+  },
+  "Date": "Wed Oct 27 2021",
+  "Time_from": "7",
+  "Time_to": "8",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "51750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6178c7b77507d4704cd1f1cc"
+  },
+  "Date": "Wed Oct 27 2021",
+  "Time_from": "8",
+  "Time_to": "9",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "2250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6178d5c77507d4704cd1f1cd"
+  },
+  "Date": "Wed Oct 27 2021",
+  "Time_from": "9",
+  "Time_to": "10",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "5625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6178e3d77507d4704cd1f1ce"
+  },
+  "Date": "Wed Oct 27 2021",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "10125",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6178f1e77507d4704cd1f1cf"
+  },
+  "Date": "Wed Oct 27 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "14625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6178fff77507d4704cd1f1d0"
+  },
+  "Date": "Wed Oct 27 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "16875",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61790e077507d4704cd1f1d1"
+  },
+  "Date": "Wed Oct 27 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "21375",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61791c177507d4704cd1f1d2"
+  },
+  "Date": "Wed Oct 27 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "24750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61792a277507d4704cd1f1d3"
+  },
+  "Date": "Wed Oct 27 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "29250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617938377507d4704cd1f1d4"
+  },
+  "Date": "Wed Oct 27 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "33750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617946477507d4704cd1f1d5"
+  },
+  "Date": "Wed Oct 27 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "38250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617954577507d4704cd1f1d6"
+  },
+  "Date": "Wed Oct 27 2021",
+  "Time_from": "6",
+  "Time_to": "7",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "40500",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617962677507d4704cd1f1d7"
+  },
+  "Date": "Wed Oct 27 2021",
+  "Time_from": "7",
+  "Time_to": "8",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "4500",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617970777507d4704cd1f1d8"
+  },
+  "Date": "Wed Oct 27 2021",
+  "Time_from": "8",
+  "Time_to": "9",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "6750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61797e877507d4704cd1f1d9"
+  },
+  "Date": "Wed Oct 27 2021",
+  "Time_from": "9",
+  "Time_to": "10",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "11250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61798c977507d4704cd1f1da"
+  },
+  "Date": "Wed Oct 27 2021",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "15750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61799aa77507d4704cd1f1db"
+  },
+  "Date": "Wed Oct 27 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "20250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6179a8b77507d4704cd1f1dc"
+  },
+  "Date": "Thu Oct 28 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "23625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6179b6c77507d4704cd1f1dd"
+  },
+  "Date": "Thu Oct 28 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "28125",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6179c4d77507d4704cd1f1de"
+  },
+  "Date": "Thu Oct 28 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "32625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6179d2e77507d4704cd1f1df"
+  },
+  "Date": "Thu Oct 28 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "36000",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6179e0f77507d4704cd1f1e0"
+  },
+  "Date": "Thu Oct 28 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "40500",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6179ef077507d4704cd1f1e1"
+  },
+  "Date": "Thu Oct 28 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "45000",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6179fd177507d4704cd1f1e2"
+  },
+  "Date": "Thu Oct 28 2021",
+  "Time_from": "6",
+  "Time_to": "7",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "48375",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617a0b277507d4704cd1f1e3"
+  },
+  "Date": "Thu Oct 28 2021",
+  "Time_from": "7",
+  "Time_to": "8",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "51750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617a19377507d4704cd1f1e4"
+  },
+  "Date": "Thu Oct 28 2021",
+  "Time_from": "8",
+  "Time_to": "9",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "2250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617a27477507d4704cd1f1e5"
+  },
+  "Date": "Thu Oct 28 2021",
+  "Time_from": "9",
+  "Time_to": "10",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "5625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617a35577507d4704cd1f1e6"
+  },
+  "Date": "Thu Oct 28 2021",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "10125",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617a43677507d4704cd1f1e7"
+  },
+  "Date": "Thu Oct 28 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "14625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617a51777507d4704cd1f1e8"
+  },
+  "Date": "Thu Oct 28 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "16875",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617a5f877507d4704cd1f1e9"
+  },
+  "Date": "Thu Oct 28 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "21375",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617a6d977507d4704cd1f1ea"
+  },
+  "Date": "Thu Oct 28 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "24750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617a7ba75e2a648b8d6c236d"
+  },
+  "Date": "Thu Oct 28 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "29250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617a89b75e2a648b8d6c236e"
+  },
+  "Date": "Thu Oct 28 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "33750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617a97c75e2a648b8d6c236f"
+  },
+  "Date": "Thu Oct 28 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "38250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617aa5d75e2a648b8d6c2370"
+  },
+  "Date": "Thu Oct 28 2021",
+  "Time_from": "6",
+  "Time_to": "7",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "40500",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617ab3e75e2a648b8d6c2371"
+  },
+  "Date": "Thu Oct 28 2021",
+  "Time_from": "7",
+  "Time_to": "8",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "4500",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617ac1f75e2a648b8d6c2372"
+  },
+  "Date": "Thu Oct 28 2021",
+  "Time_from": "8",
+  "Time_to": "9",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "6750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617ad0075e2a648b8d6c2373"
+  },
+  "Date": "Thu Oct 28 2021",
+  "Time_from": "9",
+  "Time_to": "10",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "11250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617ade175e2a648b8d6c2374"
+  },
+  "Date": "Thu Oct 28 2021",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "15750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617aec275e2a648b8d6c2375"
+  },
+  "Date": "Thu Oct 28 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "20250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617afa375e2a648b8d6c2376"
+  },
+  "Date": "Fri Oct 29 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "23625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617b08475e2a648b8d6c2377"
+  },
+  "Date": "Fri Oct 29 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "28125",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617b16575e2a648b8d6c2378"
+  },
+  "Date": "Fri Oct 29 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "32625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617b24675e2a648b8d6c2379"
+  },
+  "Date": "Fri Oct 29 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "36000",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617b32775e2a648b8d6c237a"
+  },
+  "Date": "Fri Oct 29 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "40500",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617b40875e2a648b8d6c237b"
+  },
+  "Date": "Fri Oct 29 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "45000",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617b4e975e2a648b8d6c237c"
+  },
+  "Date": "Fri Oct 29 2021",
+  "Time_from": "6",
+  "Time_to": "7",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "48375",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617b5ca75e2a648b8d6c237d"
+  },
+  "Date": "Fri Oct 29 2021",
+  "Time_from": "7",
+  "Time_to": "8",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "51750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617b6ab75e2a648b8d6c237e"
+  },
+  "Date": "Fri Oct 29 2021",
+  "Time_from": "8",
+  "Time_to": "9",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "2250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617b78c75e2a648b8d6c237f"
+  },
+  "Date": "Fri Oct 29 2021",
+  "Time_from": "9",
+  "Time_to": "10",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "5625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617b86d75e2a648b8d6c2380"
+  },
+  "Date": "Fri Oct 29 2021",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "10125",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617b94e75e2a648b8d6c2381"
+  },
+  "Date": "Fri Oct 29 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "14625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617ba2f75e2a648b8d6c2382"
+  },
+  "Date": "Fri Oct 29 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "16875",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617bb1075e2a648b8d6c2383"
+  },
+  "Date": "Fri Oct 29 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "21375",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617bbf175e2a648b8d6c2384"
+  },
+  "Date": "Fri Oct 29 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "24750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617bcd275e2a648b8d6c2385"
+  },
+  "Date": "Fri Oct 29 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "29250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617bdb375e2a648b8d6c2386"
+  },
+  "Date": "Fri Oct 29 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "33750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "617be9475e2a648b8d6c2387"
+  },
+  "Date": "Fri Oct 29 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "38250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6183b627752c9570fb856030"
+  },
+  "Date": "Thu Nov 04 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "29250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6183c437752c9570fb856031"
+  },
+  "Date": "Thu Nov 04 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "33750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6183d247752c9570fb856032"
+  },
+  "Date": "Thu Nov 04 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "38250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6183e057752c9570fb856033"
+  },
+  "Date": "Thu Nov 04 2021",
+  "Time_from": "6",
+  "Time_to": "7",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "40500",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6183ee67752c9570fb856034"
+  },
+  "Date": "Thu Nov 04 2021",
+  "Time_from": "7",
+  "Time_to": "8",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "4500",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6183fc77752c9570fb856035"
+  },
+  "Date": "Thu Nov 04 2021",
+  "Time_from": "8",
+  "Time_to": "9",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "6750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61840a87752c9570fb856036"
+  },
+  "Date": "Thu Nov 04 2021",
+  "Time_from": "9",
+  "Time_to": "10",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "11250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61841897752c9570fb856037"
+  },
+  "Date": "Thu Nov 04 2021",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "15750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "618426a7752c9570fb856038"
+  },
+  "Date": "Thu Nov 04 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "20250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "618434b7752c9570fb856039"
+  },
+  "Date": "Fri Nov 05 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "23625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "618442c7752c9570fb85603a"
+  },
+  "Date": "Fri Nov 05 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "28125",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "618450d7752c9570fb85603b"
+  },
+  "Date": "Fri Nov 05 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "32625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61845ee7752c9570fb85603c"
+  },
+  "Date": "Fri Nov 05 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "36000",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61846cf7752c9570fb85603d"
+  },
+  "Date": "Fri Nov 05 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "40500",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61847b07752c9570fb85603e"
+  },
+  "Date": "Fri Nov 05 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "45000",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61848917752c9570fb85603f"
+  },
+  "Date": "Fri Nov 05 2021",
+  "Time_from": "6",
+  "Time_to": "7",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "48375",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61849728752c9570fb856040"
+  },
+  "Date": "Fri Nov 05 2021",
+  "Time_from": "7",
+  "Time_to": "8",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "51750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6184a537752c9570fb856041"
+  },
+  "Date": "Fri Nov 05 2021",
+  "Time_from": "8",
+  "Time_to": "9",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "2250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6184b347752c9570fb856042"
+  },
+  "Date": "Fri Nov 05 2021",
+  "Time_from": "9",
+  "Time_to": "10",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "5625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6184c157752c9570fb856043"
+  },
+  "Date": "Fri Nov 05 2021",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "10125",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6184cf67752c9570fb856044"
+  },
+  "Date": "Fri Nov 05 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "14625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6184dd77752c9570fb856045"
+  },
+  "Date": "Fri Nov 05 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "16875",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6184eb87752c9570fb856046"
+  },
+  "Date": "Fri Nov 05 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "21375",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6184f997752c9570fb856047"
+  },
+  "Date": "Fri Nov 05 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "24750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "618507a7752c9570fb856048"
+  },
+  "Date": "Fri Nov 05 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "29250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "618515b7752c9570fb856049"
+  },
+  "Date": "Fri Nov 05 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "33750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "618523c7752c9570fb85604a"
+  },
+  "Date": "Fri Nov 05 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "38250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "618531d8752c9570fb85604b"
+  },
+  "Date": "Fri Nov 05 2021",
+  "Time_from": "6",
+  "Time_to": "7",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "40500",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61853fe7752c9570fb85604c"
+  },
+  "Date": "Fri Nov 05 2021",
+  "Time_from": "7",
+  "Time_to": "8",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "4500",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61854df7752c9570fb85604d"
+  },
+  "Date": "Fri Nov 05 2021",
+  "Time_from": "8",
+  "Time_to": "9",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "6750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61855c07752c9570fb85604e"
+  },
+  "Date": "Fri Nov 05 2021",
+  "Time_from": "9",
+  "Time_to": "10",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "11250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61856a17752c9570fb85604f"
+  },
+  "Date": "Fri Nov 05 2021",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "15750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61857827752c9570fb856050"
+  },
+  "Date": "Fri Nov 05 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "20250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61858637752c9570fb856051"
+  },
+  "Date": "Sat Nov 06 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "23625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61859448752c9570fb856052"
+  },
+  "Date": "Sat Nov 06 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "28125",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6185a257752c9570fb856053"
+  },
+  "Date": "Sat Nov 06 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "32625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6185b067752c9570fb856054"
+  },
+  "Date": "Sat Nov 06 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "36000",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6185be77752c9570fb856055"
+  },
+  "Date": "Sat Nov 06 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "40500",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6185cc87752c9570fb856056"
+  },
+  "Date": "Sat Nov 06 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "45000",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6185da97752c9570fb856057"
+  },
+  "Date": "Sat Nov 06 2021",
+  "Time_from": "6",
+  "Time_to": "7",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "48375",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6185e8a7752c9570fb856058"
+  },
+  "Date": "Sat Nov 06 2021",
+  "Time_from": "7",
+  "Time_to": "8",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "51750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6185f6b7752c9570fb856059"
+  },
+  "Date": "Sat Nov 06 2021",
+  "Time_from": "8",
+  "Time_to": "9",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "2250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "618604c7752c9570fb85605a"
+  },
+  "Date": "Sat Nov 06 2021",
+  "Time_from": "9",
+  "Time_to": "10",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "5625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "618612d7752c9570fb85605b"
+  },
+  "Date": "Sat Nov 06 2021",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "10125",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "618620e7752c9570fb85605c"
+  },
+  "Date": "Sat Nov 06 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "14625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61862ef7752c9570fb85605d"
+  },
+  "Date": "Sat Nov 06 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "16875",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61863d07752c9570fb85605e"
+  },
+  "Date": "Sat Nov 06 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "21375",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61864b17752c9570fb85605f"
+  },
+  "Date": "Sat Nov 06 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "24750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61865927752c9570fb856060"
+  },
+  "Date": "Sat Nov 06 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "29250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61866737752c9570fb856061"
+  },
+  "Date": "Sat Nov 06 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "33750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61867547752c9570fb856062"
+  },
+  "Date": "Sat Nov 06 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "38250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61868357752c9570fb856063"
+  },
+  "Date": "Sat Nov 06 2021",
+  "Time_from": "6",
+  "Time_to": "7",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "40500",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61869167752c9570fb856064"
+  },
+  "Date": "Sat Nov 06 2021",
+  "Time_from": "7",
+  "Time_to": "8",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "4500",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61869f77752c9570fb856065"
+  },
+  "Date": "Sat Nov 06 2021",
+  "Time_from": "8",
+  "Time_to": "9",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "6750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6186ad87752c9570fb856066"
+  },
+  "Date": "Sat Nov 06 2021",
+  "Time_from": "9",
+  "Time_to": "10",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "11250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6186bb97752c9570fb856067"
+  },
+  "Date": "Sat Nov 06 2021",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "15750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6186c9a7752c9570fb856068"
+  },
+  "Date": "Sat Nov 06 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "20250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6186d7b7752c9570fb856069"
+  },
+  "Date": "Sun Nov 07 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "23625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6186e5c7752c9570fb85606a"
+  },
+  "Date": "Sun Nov 07 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "28125",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6186f3d7752c9570fb85606b"
+  },
+  "Date": "Sun Nov 07 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "32625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6188b5d7b3ccb66e1b75425e"
+  },
+  "Date": "Mon Nov 08 2021",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "10125",
+  "Final_Output": "4949",
+  "Cummilative_Output": "10860",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "6",
+  "Cap_Rejection": "85"
+},{
+  "_id": {
+    "$oid": "6188c3e70e2e2b8176f7ea51"
+  },
+  "Date": "Mon Nov 08 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "14625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6188d1f70e2e2b8176f7ea52"
+  },
+  "Date": "Mon Nov 08 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "16875",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6188e0070e2e2b8176f7ea53"
+  },
+  "Date": "Mon Nov 08 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "21375",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6188ee170e2e2b8176f7ea54"
+  },
+  "Date": "Mon Nov 08 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "24750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6188fc270e2e2b8176f7ea55"
+  },
+  "Date": "Mon Nov 08 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "29250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61890a370e2e2b8176f7ea56"
+  },
+  "Date": "Mon Nov 08 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "33750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "618918470e2e2b8176f7ea57"
+  },
+  "Date": "Mon Nov 08 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "38250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "618926570e2e2b8176f7ea58"
+  },
+  "Date": "Mon Nov 08 2021",
+  "Time_from": "6",
+  "Time_to": "7",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "40500",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "618934670e2e2b8176f7ea59"
+  },
+  "Date": "Mon Nov 08 2021",
+  "Time_from": "7",
+  "Time_to": "8",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "4500",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "618942770e2e2b8176f7ea5a"
+  },
+  "Date": "Mon Nov 08 2021",
+  "Time_from": "8",
+  "Time_to": "9",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "6750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "618950870e2e2b8176f7ea5b"
+  },
+  "Date": "Mon Nov 08 2021",
+  "Time_from": "9",
+  "Time_to": "10",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "11250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61895e970e2e2b8176f7ea5c"
+  },
+  "Date": "Mon Nov 08 2021",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "15750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61896ca70e2e2b8176f7ea5d"
+  },
+  "Date": "Mon Nov 08 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "20250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61897ab70e2e2b8176f7ea5e"
+  },
+  "Date": "Tue Nov 09 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "23625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "618988c70e2e2b8176f7ea5f"
+  },
+  "Date": "Tue Nov 09 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "28125",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "618996d70e2e2b8176f7ea60"
+  },
+  "Date": "Tue Nov 09 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "32625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6189a4e70e2e2b8176f7ea61"
+  },
+  "Date": "Tue Nov 09 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "36000",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6189b2f70e2e2b8176f7ea62"
+  },
+  "Date": "Tue Nov 09 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "40500",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6189c1070e2e2b8176f7ea63"
+  },
+  "Date": "Tue Nov 09 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "45000",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6189cf170e2e2b8176f7ea64"
+  },
+  "Date": "Tue Nov 09 2021",
+  "Time_from": "6",
+  "Time_to": "7",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "48375",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6189dd270e2e2b8176f7ea65"
+  },
+  "Date": "Tue Nov 09 2021",
+  "Time_from": "7",
+  "Time_to": "8",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "51750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6189eb370e2e2b8176f7ea66"
+  },
+  "Date": "Tue Nov 09 2021",
+  "Time_from": "8",
+  "Time_to": "9",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "2250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6189f9470e2e2b8176f7ea67"
+  },
+  "Date": "Tue Nov 09 2021",
+  "Time_from": "9",
+  "Time_to": "10",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "5625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "618a07570e2e2b8176f7ea68"
+  },
+  "Date": "Tue Nov 09 2021",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "10125",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "618a15670e2e2b8176f7ea69"
+  },
+  "Date": "Tue Nov 09 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "14625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "618a23770e2e2b8176f7ea6a"
+  },
+  "Date": "Tue Nov 09 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "16875",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "618a31870e2e2b8176f7ea6b"
+  },
+  "Date": "Tue Nov 09 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "21375",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "618a3f970e2e2b8176f7ea6c"
+  },
+  "Date": "Tue Nov 09 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "24750",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618a4da70e2e2b8176f7ea6d"
+  },
+  "Date": "Tue Nov 09 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "29250",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618a5bb70e2e2b8176f7ea6e"
+  },
+  "Date": "Tue Nov 09 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "33750",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618a69c70e2e2b8176f7ea6f"
+  },
+  "Date": "Tue Nov 09 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "38250",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618a77d70e2e2b8176f7ea70"
+  },
+  "Date": "Tue Nov 09 2021",
+  "Time_from": "6",
+  "Time_to": "7",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "40500",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618a85e70e2e2b8176f7ea71"
+  },
+  "Date": "Tue Nov 09 2021",
+  "Time_from": "7",
+  "Time_to": "8",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "4500",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618a93f70e2e2b8176f7ea72"
+  },
+  "Date": "Tue Nov 09 2021",
+  "Time_from": "8",
+  "Time_to": "9",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "6750",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618aa2070e2e2b8176f7ea73"
+  },
+  "Date": "Tue Nov 09 2021",
+  "Time_from": "9",
+  "Time_to": "10",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "11250",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618ab0170e2e2b8176f7ea74"
+  },
+  "Date": "Tue Nov 09 2021",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "15750",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618abe270e2e2b8176f7ea75"
+  },
+  "Date": "Tue Nov 09 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "20250",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618acc370e2e2b8176f7ea76"
+  },
+  "Date": "Wed Nov 10 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "23625",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618ada470e2e2b8176f7ea77"
+  },
+  "Date": "Wed Nov 10 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "28125",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618ae8570e2e2b8176f7ea78"
+  },
+  "Date": "Wed Nov 10 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "32625",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618af6670e2e2b8176f7ea79"
+  },
+  "Date": "Wed Nov 10 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "36000",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618b04770e2e2b8176f7ea7a"
+  },
+  "Date": "Wed Nov 10 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "40500",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618b12870e2e2b8176f7ea7b"
+  },
+  "Date": "Wed Nov 10 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "45000",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618b20970e2e2b8176f7ea7c"
+  },
+  "Date": "Wed Nov 10 2021",
+  "Time_from": "6",
+  "Time_to": "7",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "48375",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618b2ea70e2e2b8176f7ea7d"
+  },
+  "Date": "Wed Nov 10 2021",
+  "Time_from": "7",
+  "Time_to": "8",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "51750",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618b3cb70e2e2b8176f7ea7e"
+  },
+  "Date": "Wed Nov 10 2021",
+  "Time_from": "8",
+  "Time_to": "9",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "2250",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618b4ac70e2e2b8176f7ea7f"
+  },
+  "Date": "Wed Nov 10 2021",
+  "Time_from": "9",
+  "Time_to": "10",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "5625",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618b58d70e2e2b8176f7ea80"
+  },
+  "Date": "Wed Nov 10 2021",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "10125",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618b66e70e2e2b8176f7ea81"
+  },
+  "Date": "Wed Nov 10 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "14625",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618b74f70e2e2b8176f7ea82"
+  },
+  "Date": "Wed Nov 10 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "16875",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618b83070e2e2b8176f7ea83"
+  },
+  "Date": "Wed Nov 10 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "21375",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618b91170e2e2b8176f7ea84"
+  },
+  "Date": "Wed Nov 10 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "24750",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618b9f270e2e2b8176f7ea85"
+  },
+  "Date": "Wed Nov 10 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "29250",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618bad370e2e2b8176f7ea86"
+  },
+  "Date": "Wed Nov 10 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "33750",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618bbb470e2e2b8176f7ea87"
+  },
+  "Date": "Wed Nov 10 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "38250",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618bc9570e2e2b8176f7ea88"
+  },
+  "Date": "Wed Nov 10 2021",
+  "Time_from": "6",
+  "Time_to": "7",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "40500",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618bd7670e2e2b8176f7ea89"
+  },
+  "Date": "Wed Nov 10 2021",
+  "Time_from": "7",
+  "Time_to": "8",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "4500",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618be5770e2e2b8176f7ea8a"
+  },
+  "Date": "Wed Nov 10 2021",
+  "Time_from": "8",
+  "Time_to": "9",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "6750",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618bf3870e2e2b8176f7ea8b"
+  },
+  "Date": "Wed Nov 10 2021",
+  "Time_from": "9",
+  "Time_to": "10",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "11250",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618c01970e2e2b8176f7ea8c"
+  },
+  "Date": "Wed Nov 10 2021",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "15750",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618c0fa70e2e2b8176f7ea8d"
+  },
+  "Date": "Wed Nov 10 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "20250",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618c1db70e2e2b8176f7ea8e"
+  },
+  "Date": "Thu Nov 11 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "23625",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618c2bc70e2e2b8176f7ea8f"
+  },
+  "Date": "Thu Nov 11 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "28125",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618c39d80e2e2b8176f7ea90"
+  },
+  "Date": "Thu Nov 11 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "32625",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618c47e70e2e2b8176f7ea91"
+  },
+  "Date": "Thu Nov 11 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "36000",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618c55f70e2e2b8176f7ea92"
+  },
+  "Date": "Thu Nov 11 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "40500",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618c64070e2e2b8176f7ea93"
+  },
+  "Date": "Thu Nov 11 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "45000",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618c72170e2e2b8176f7ea94"
+  },
+  "Date": "Thu Nov 11 2021",
+  "Time_from": "6",
+  "Time_to": "7",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "48375",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "618c80270e2e2b8176f7ea95"
+  },
+  "Date": "Thu Nov 11 2021",
+  "Time_from": "7",
+  "Time_to": "8",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "51750",
+  "Final_Output": "0",
+  "Cummilative_Output": "18526",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "619341d788856348d703d827"
+  },
+  "Date": "Tue Nov 16 2021",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "10125",
+  "Final_Output": "2321",
+  "Cummilative_Output": "9471",
+  "Refill_Rejection": "5",
+  "Plug_Rejection": "41",
+  "Cap_Rejection": "24"
+},{
+  "_id": {
+    "$oid": "61934fe788856348d703d828"
+  },
+  "Date": "Tue Nov 16 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "14625",
+  "Final_Output": "2321",
+  "Cummilative_Output": "9471",
+  "Refill_Rejection": "5",
+  "Plug_Rejection": "41",
+  "Cap_Rejection": "24"
+},{
+  "_id": {
+    "$oid": "61935df788856348d703d829"
+  },
+  "Date": "Tue Nov 16 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "16875",
+  "Final_Output": "3223",
+  "Cummilative_Output": "19231",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "9",
+  "Cap_Rejection": "32"
+},{
+  "_id": {
+    "$oid": "61936c0788856348d703d82a"
+  },
+  "Date": "Tue Nov 16 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "21375",
+  "Final_Output": "7668",
+  "Cummilative_Output": "23676",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "44",
+  "Cap_Rejection": "98"
+},{
+  "_id": {
+    "$oid": "61937a1788856348d703d82b"
+  },
+  "Date": "Tue Nov 16 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "24750",
+  "Final_Output": "965",
+  "Cummilative_Output": "30231",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "2",
+  "Cap_Rejection": "10"
+},{
+  "_id": {
+    "$oid": "6193882788856348d703d82c"
+  },
+  "Date": "Tue Nov 16 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "29250",
+  "Final_Output": "1499",
+  "Cummilative_Output": "30765",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "3",
+  "Cap_Rejection": "16"
+},{
+  "_id": {
+    "$oid": "6193963788856348d703d82d"
+  },
+  "Date": "Tue Nov 16 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "33750",
+  "Final_Output": "1561",
+  "Cummilative_Output": "30827",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "3",
+  "Cap_Rejection": "16"
+},{
+  "_id": {
+    "$oid": "6193a44788856348d703d82e"
+  },
+  "Date": "Tue Nov 16 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "38250",
+  "Final_Output": "1561",
+  "Cummilative_Output": "30827",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "3",
+  "Cap_Rejection": "16"
+},{
+  "_id": {
+    "$oid": "6193b25788856348d703d82f"
+  },
+  "Date": "Tue Nov 16 2021",
+  "Time_from": "6",
+  "Time_to": "7",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "40500",
+  "Final_Output": "1561",
+  "Cummilative_Output": "30827",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "3",
+  "Cap_Rejection": "16"
+},{
+  "_id": {
+    "$oid": "6193c06788856348d703d830"
+  },
+  "Date": "Tue Nov 16 2021",
+  "Time_from": "7",
+  "Time_to": "8",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "4500",
+  "Final_Output": "1561",
+  "Cummilative_Output": "30827",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "3",
+  "Cap_Rejection": "16"
+},{
+  "_id": {
+    "$oid": "6193ce7788856348d703d831"
+  },
+  "Date": "Tue Nov 16 2021",
+  "Time_from": "8",
+  "Time_to": "9",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "6750",
+  "Final_Output": "1561",
+  "Cummilative_Output": "30827",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "3",
+  "Cap_Rejection": "16"
+},{
+  "_id": {
+    "$oid": "6193dc8788856348d703d832"
+  },
+  "Date": "Tue Nov 16 2021",
+  "Time_from": "9",
+  "Time_to": "10",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "11250",
+  "Final_Output": "1561",
+  "Cummilative_Output": "30827",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "3",
+  "Cap_Rejection": "16"
+},{
+  "_id": {
+    "$oid": "6193ea9788856348d703d833"
+  },
+  "Date": "Tue Nov 16 2021",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "15750",
+  "Final_Output": "1561",
+  "Cummilative_Output": "30827",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "3",
+  "Cap_Rejection": "16"
+},{
+  "_id": {
+    "$oid": "6193f8a788856348d703d834"
+  },
+  "Date": "Tue Nov 16 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "20250",
+  "Final_Output": "1561",
+  "Cummilative_Output": "30827",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "3",
+  "Cap_Rejection": "16"
+},{
+  "_id": {
+    "$oid": "619406b788856348d703d835"
+  },
+  "Date": "Wed Nov 17 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "23625",
+  "Final_Output": "1561",
+  "Cummilative_Output": "30827",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "3",
+  "Cap_Rejection": "16"
+},{
+  "_id": {
+    "$oid": "619414c788856348d703d836"
+  },
+  "Date": "Wed Nov 17 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "28125",
+  "Final_Output": "1561",
+  "Cummilative_Output": "30827",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "3",
+  "Cap_Rejection": "16"
+},{
+  "_id": {
+    "$oid": "619422d788856348d703d837"
+  },
+  "Date": "Wed Nov 17 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "32625",
+  "Final_Output": "1561",
+  "Cummilative_Output": "30827",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "3",
+  "Cap_Rejection": "16"
+},{
+  "_id": {
+    "$oid": "619430e788856348d703d838"
+  },
+  "Date": "Wed Nov 17 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "36000",
+  "Final_Output": "1561",
+  "Cummilative_Output": "30827",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "3",
+  "Cap_Rejection": "16"
+},{
+  "_id": {
+    "$oid": "61943ef788856348d703d839"
+  },
+  "Date": "Wed Nov 17 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "40500",
+  "Final_Output": "1561",
+  "Cummilative_Output": "30827",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "3",
+  "Cap_Rejection": "16"
+},{
+  "_id": {
+    "$oid": "61944d0788856348d703d83a"
+  },
+  "Date": "Wed Nov 17 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "45000",
+  "Final_Output": "1561",
+  "Cummilative_Output": "30827",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "3",
+  "Cap_Rejection": "16"
+},{
+  "_id": {
+    "$oid": "61945b1788856348d703d83b"
+  },
+  "Date": "Wed Nov 17 2021",
+  "Time_from": "6",
+  "Time_to": "7",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "48375",
+  "Final_Output": "1561",
+  "Cummilative_Output": "30827",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "3",
+  "Cap_Rejection": "16"
+},{
+  "_id": {
+    "$oid": "6194692788856348d703d83c"
+  },
+  "Date": "Wed Nov 17 2021",
+  "Time_from": "7",
+  "Time_to": "8",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "51750",
+  "Final_Output": "1561",
+  "Cummilative_Output": "30827",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "3",
+  "Cap_Rejection": "16"
+},{
+  "_id": {
+    "$oid": "6194773788856348d703d83d"
+  },
+  "Date": "Wed Nov 17 2021",
+  "Time_from": "8",
+  "Time_to": "9",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "2250",
+  "Final_Output": "1842",
+  "Cummilative_Output": "1844",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "6",
+  "Cap_Rejection": "30"
+},{
+  "_id": {
+    "$oid": "6194854788856348d703d83e"
+  },
+  "Date": "Wed Nov 17 2021",
+  "Time_from": "9",
+  "Time_to": "10",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "5625",
+  "Final_Output": "1748",
+  "Cummilative_Output": "6335",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "6",
+  "Cap_Rejection": "14"
+},{
+  "_id": {
+    "$oid": "6194a1677ba1f4afc93994b5"
+  },
+  "Date": "Wed Nov 17 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "14625",
+  "Final_Output": "2256",
+  "Cummilative_Output": "16591",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "18"
+},{
+  "_id": {
+    "$oid": "6194af777ba1f4afc93994b6"
+  },
+  "Date": "Wed Nov 17 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "16875",
+  "Final_Output": "5208",
+  "Cummilative_Output": "19545",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "5",
+  "Cap_Rejection": "60"
+},{
+  "_id": {
+    "$oid": "6194bd87484ff7a6ce1e212c"
+  },
+  "Date": "Wed Nov 17 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "21375",
+  "Final_Output": "2239",
+  "Cummilative_Output": "24388",
+  "Refill_Rejection": "25",
+  "Plug_Rejection": "4",
+  "Cap_Rejection": "49"
+},{
+  "_id": {
+    "$oid": "6194cb97484ff7a6ce1e212d"
+  },
+  "Date": "Wed Nov 17 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "24750",
+  "Final_Output": "1373",
+  "Cummilative_Output": "27254",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "1",
+  "Cap_Rejection": "19"
+},{
+  "_id": {
+    "$oid": "6194d9a7484ff7a6ce1e212e"
+  },
+  "Date": "Wed Nov 17 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "29250",
+  "Final_Output": "2875",
+  "Cummilative_Output": "31910",
+  "Refill_Rejection": "11",
+  "Plug_Rejection": "5",
+  "Cap_Rejection": "21"
+},{
+  "_id": {
+    "$oid": "6194e7b7484ff7a6ce1e212f"
+  },
+  "Date": "Wed Nov 17 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "33750",
+  "Final_Output": "2365",
+  "Cummilative_Output": "37306",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "18",
+  "Cap_Rejection": "60"
+},{
+  "_id": {
+    "$oid": "6194f5c7484ff7a6ce1e2130"
+  },
+  "Date": "Wed Nov 17 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "38250",
+  "Final_Output": "20",
+  "Cummilative_Output": "22",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "619503d7484ff7a6ce1e2131"
+  },
+  "Date": "Wed Nov 17 2021",
+  "Time_from": "6",
+  "Time_to": "7",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "40500",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "619511e7484ff7a6ce1e2132"
+  },
+  "Date": "Wed Nov 17 2021",
+  "Time_from": "7",
+  "Time_to": "8",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "4500",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "61951ff7484ff7a6ce1e2133"
+  },
+  "Date": "Wed Nov 17 2021",
+  "Time_from": "8",
+  "Time_to": "9",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "6750",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "61952e07484ff7a6ce1e2134"
+  },
+  "Date": "Wed Nov 17 2021",
+  "Time_from": "9",
+  "Time_to": "10",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "11250",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "61953c17484ff7a6ce1e2135"
+  },
+  "Date": "Wed Nov 17 2021",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "15750",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "61954a27484ff7a6ce1e2136"
+  },
+  "Date": "Wed Nov 17 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "20250",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "61955837484ff7a6ce1e2137"
+  },
+  "Date": "Thu Nov 18 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "23625",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "61956647484ff7a6ce1e2138"
+  },
+  "Date": "Thu Nov 18 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "28125",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "61957457484ff7a6ce1e2139"
+  },
+  "Date": "Thu Nov 18 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "32625",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "61958267484ff7a6ce1e213a"
+  },
+  "Date": "Thu Nov 18 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "36000",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "61959077484ff7a6ce1e213b"
+  },
+  "Date": "Thu Nov 18 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "40500",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "61959e87484ff7a6ce1e213c"
+  },
+  "Date": "Thu Nov 18 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "45000",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "6195ac97484ff7a6ce1e213d"
+  },
+  "Date": "Thu Nov 18 2021",
+  "Time_from": "6",
+  "Time_to": "7",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "48375",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "6195baa7484ff7a6ce1e213e"
+  },
+  "Date": "Thu Nov 18 2021",
+  "Time_from": "7",
+  "Time_to": "8",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "51750",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "6195c8b7484ff7a6ce1e213f"
+  },
+  "Date": "Thu Nov 18 2021",
+  "Time_from": "8",
+  "Time_to": "9",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "2250",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "6195d6c7484ff7a6ce1e2140"
+  },
+  "Date": "Thu Nov 18 2021",
+  "Time_from": "9",
+  "Time_to": "10",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "5625",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "6195e4d7484ff7a6ce1e2141"
+  },
+  "Date": "Thu Nov 18 2021",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "10125",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "6195f2e7484ff7a6ce1e2142"
+  },
+  "Date": "Thu Nov 18 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "14625",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "619600f7484ff7a6ce1e2143"
+  },
+  "Date": "Thu Nov 18 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "16875",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "61960f07484ff7a6ce1e2144"
+  },
+  "Date": "Thu Nov 18 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "21375",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "61961d17484ff7a6ce1e2145"
+  },
+  "Date": "Thu Nov 18 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "24750",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "61962b27484ff7a6ce1e2146"
+  },
+  "Date": "Thu Nov 18 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "29250",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "61963937484ff7a6ce1e2147"
+  },
+  "Date": "Thu Nov 18 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "33750",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "61964747484ff7a6ce1e2148"
+  },
+  "Date": "Thu Nov 18 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "38250",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "61965557484ff7a6ce1e2149"
+  },
+  "Date": "Thu Nov 18 2021",
+  "Time_from": "6",
+  "Time_to": "7",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "40500",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "61966367484ff7a6ce1e214a"
+  },
+  "Date": "Thu Nov 18 2021",
+  "Time_from": "7",
+  "Time_to": "8",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "4500",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "61967177484ff7a6ce1e214b"
+  },
+  "Date": "Thu Nov 18 2021",
+  "Time_from": "8",
+  "Time_to": "9",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "6750",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "61967f87484ff7a6ce1e214c"
+  },
+  "Date": "Thu Nov 18 2021",
+  "Time_from": "9",
+  "Time_to": "10",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "11250",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "61968d97484ff7a6ce1e214d"
+  },
+  "Date": "Thu Nov 18 2021",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "15750",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "61969ba7484ff7a6ce1e214e"
+  },
+  "Date": "Thu Nov 18 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "20250",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "6196a9b7484ff7a6ce1e214f"
+  },
+  "Date": "Fri Nov 19 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "23625",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "6196b7c7484ff7a6ce1e2150"
+  },
+  "Date": "Fri Nov 19 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "28125",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "6196c5d7484ff7a6ce1e2151"
+  },
+  "Date": "Fri Nov 19 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "32625",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "6196d3e7484ff7a6ce1e2152"
+  },
+  "Date": "Fri Nov 19 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "36000",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "6196e1f7484ff7a6ce1e2153"
+  },
+  "Date": "Fri Nov 19 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "40500",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "6196f007484ff7a6ce1e2154"
+  },
+  "Date": "Fri Nov 19 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "45000",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "6196fe17484ff7a6ce1e2155"
+  },
+  "Date": "Fri Nov 19 2021",
+  "Time_from": "6",
+  "Time_to": "7",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "48375",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "61970c27484ff7a6ce1e2156"
+  },
+  "Date": "Fri Nov 19 2021",
+  "Time_from": "7",
+  "Time_to": "8",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "51750",
+  "Final_Output": "0",
+  "Cummilative_Output": "0",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "61971a37484ff7a6ce1e2157"
+  },
+  "Date": "Fri Nov 19 2021",
+  "Time_from": "8",
+  "Time_to": "9",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "2250",
+  "Final_Output": "2377",
+  "Cummilative_Output": "3387",
+  "Refill_Rejection": "18",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "21"
+},{
+  "_id": {
+    "$oid": "619b38e7555d539eecc43c56"
+  },
+  "Date": "Mon Nov 22 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "14625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "619cd0b7a5a8d24f34b34acf"
+  },
+  "Date": "Tue Nov 23 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "33750",
+  "Final_Output": "2664",
+  "Cummilative_Output": "12351",
+  "Refill_Rejection": "1",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "63"
+},{
+  "_id": {
+    "$oid": "61a740973b6bb5caf932579b"
+  },
+  "Date": "Wed Dec 01 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "24750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61a74ea73b6bb5caf932579c"
+  },
+  "Date": "Wed Dec 01 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "29250",
+  "Final_Output": "2679",
+  "Cummilative_Output": "11108",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "4",
+  "Cap_Rejection": "32"
+},{
+  "_id": {
+    "$oid": "61a75cb73b6bb5caf932579d"
+  },
+  "Date": "Wed Dec 01 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "33750",
+  "Final_Output": "5485",
+  "Cummilative_Output": "13916",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "9",
+  "Cap_Rejection": "39"
+},{
+  "_id": {
+    "$oid": "61a76ac73b6bb5caf932579e"
+  },
+  "Date": "Wed Dec 01 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "38250",
+  "Final_Output": "2657",
+  "Cummilative_Output": "16738",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "12",
+  "Cap_Rejection": "14"
+},{
+  "_id": {
+    "$oid": "61a8bc479db4e095632cce1f"
+  },
+  "Date": "Thu Dec 02 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "38250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61a8ca579db4e095632cce20"
+  },
+  "Date": "Thu Dec 02 2021",
+  "Time_from": "6",
+  "Time_to": "7",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "40500",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61a8d8679db4e095632cce21"
+  },
+  "Date": "Thu Dec 02 2021",
+  "Time_from": "7",
+  "Time_to": "8",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "4500",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61a8e6779db4e095632cce22"
+  },
+  "Date": "Thu Dec 02 2021",
+  "Time_from": "8",
+  "Time_to": "9",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "6750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61a902979db4e095632cce23"
+  },
+  "Date": "Thu Dec 02 2021",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "15750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61a910a79db4e095632cce24"
+  },
+  "Date": "Thu Dec 02 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "20250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61a91eb79db4e095632cce25"
+  },
+  "Date": "Fri Dec 03 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "23625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61a92cc79db4e095632cce26"
+  },
+  "Date": "Fri Dec 03 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "28125",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61a93ad79db4e095632cce27"
+  },
+  "Date": "Fri Dec 03 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "32625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61a948e79db4e095632cce28"
+  },
+  "Date": "Fri Dec 03 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "36000",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61a956f89db4e095632cce29"
+  },
+  "Date": "Fri Dec 03 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "40500",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61a965079db4e095632cce2a"
+  },
+  "Date": "Fri Dec 03 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "45000",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61a973179db4e095632cce2b"
+  },
+  "Date": "Fri Dec 03 2021",
+  "Time_from": "6",
+  "Time_to": "7",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "48375",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61a981279db4e095632cce2c"
+  },
+  "Date": "Fri Dec 03 2021",
+  "Time_from": "7",
+  "Time_to": "8",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "51750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61a98f379db4e095632cce2d"
+  },
+  "Date": "Fri Dec 03 2021",
+  "Time_from": "8",
+  "Time_to": "9",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "2250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61a9e397b4f64fc5061bfbde"
+  },
+  "Date": "Fri Dec 03 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "24750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61a9f1a7b4f64fc5061bfbdf"
+  },
+  "Date": "Fri Dec 03 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "29250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61a9f1a7b4f64fc5061bfbe0"
+  },
+  "Date": "Fri Dec 03 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "29250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61a9ffb7b4f64fc5061bfbe1"
+  },
+  "Date": "Fri Dec 03 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "33750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61a9ffb7b4f64fc5061bfbe2"
+  },
+  "Date": "Fri Dec 03 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "33750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61aa0dc7b4f64fc5061bfbe3"
+  },
+  "Date": "Fri Dec 03 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "38250",
+  "Final_Output": "2841",
+  "Cummilative_Output": "49286",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "1",
+  "Cap_Rejection": "11"
+},{
+  "_id": {
+    "$oid": "61aa0dc7b4f64fc5061bfbe4"
+  },
+  "Date": "Fri Dec 03 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "38250",
+  "Final_Output": "2841",
+  "Cummilative_Output": "49286",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "1",
+  "Cap_Rejection": "11"
+},{
+  "_id": {
+    "$oid": "61aee348400531529298c952"
+  },
+  "Date": "Tue Dec 07 2021",
+  "Time_from": "9",
+  "Time_to": "10",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "5625",
+  "Final_Output": "501",
+  "Cummilative_Output": "7903",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "2",
+  "Cap_Rejection": "8"
+},{
+  "_id": {
+    "$oid": "61aef157400531529298c953"
+  },
+  "Date": "Tue Dec 07 2021",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "10125",
+  "Final_Output": "3560",
+  "Cummilative_Output": "10962",
+  "Refill_Rejection": "1",
+  "Plug_Rejection": "8",
+  "Cap_Rejection": "35"
+},{
+  "_id": {
+    "$oid": "61aeff67400531529298c954"
+  },
+  "Date": "Tue Dec 07 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "14625",
+  "Final_Output": "1621",
+  "Cummilative_Output": "13071",
+  "Refill_Rejection": "1",
+  "Plug_Rejection": "9",
+  "Cap_Rejection": "29"
+},{
+  "_id": {
+    "$oid": "61af0d77400531529298c955"
+  },
+  "Date": "Tue Dec 07 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "16875",
+  "Final_Output": "1621",
+  "Cummilative_Output": "13071",
+  "Refill_Rejection": "1",
+  "Plug_Rejection": "9",
+  "Cap_Rejection": "29"
+},{
+  "_id": {
+    "$oid": "61af1b87400531529298c956"
+  },
+  "Date": "Tue Dec 07 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "21375",
+  "Final_Output": "1621",
+  "Cummilative_Output": "13071",
+  "Refill_Rejection": "1",
+  "Plug_Rejection": "9",
+  "Cap_Rejection": "29"
+},{
+  "_id": {
+    "$oid": "61af2997400531529298c957"
+  },
+  "Date": "Tue Dec 07 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "24750",
+  "Final_Output": "1621",
+  "Cummilative_Output": "13071",
+  "Refill_Rejection": "1",
+  "Plug_Rejection": "9",
+  "Cap_Rejection": "29"
+},{
+  "_id": {
+    "$oid": "61af37a7400531529298c958"
+  },
+  "Date": "Tue Dec 07 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "29250",
+  "Final_Output": "1621",
+  "Cummilative_Output": "13071",
+  "Refill_Rejection": "1",
+  "Plug_Rejection": "9",
+  "Cap_Rejection": "29"
+},{
+  "_id": {
+    "$oid": "61af45b7400531529298c959"
+  },
+  "Date": "Tue Dec 07 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "33750",
+  "Final_Output": "1621",
+  "Cummilative_Output": "13071",
+  "Refill_Rejection": "1",
+  "Plug_Rejection": "9",
+  "Cap_Rejection": "29"
+},{
+  "_id": {
+    "$oid": "61af53c7400531529298c95a"
+  },
+  "Date": "Tue Dec 07 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "38250",
+  "Final_Output": "1621",
+  "Cummilative_Output": "13071",
+  "Refill_Rejection": "1",
+  "Plug_Rejection": "9",
+  "Cap_Rejection": "29"
+},{
+  "_id": {
+    "$oid": "61af61d7400531529298c95b"
+  },
+  "Date": "Tue Dec 07 2021",
+  "Time_from": "6",
+  "Time_to": "7",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "40500",
+  "Final_Output": "1621",
+  "Cummilative_Output": "13071",
+  "Refill_Rejection": "1",
+  "Plug_Rejection": "9",
+  "Cap_Rejection": "29"
+},{
+  "_id": {
+    "$oid": "61af6fe7400531529298c95c"
+  },
+  "Date": "Tue Dec 07 2021",
+  "Time_from": "7",
+  "Time_to": "8",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "4500",
+  "Final_Output": "1621",
+  "Cummilative_Output": "13071",
+  "Refill_Rejection": "1",
+  "Plug_Rejection": "9",
+  "Cap_Rejection": "29"
+},{
+  "_id": {
+    "$oid": "61af7df7400531529298c95d"
+  },
+  "Date": "Tue Dec 07 2021",
+  "Time_from": "8",
+  "Time_to": "9",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "6750",
+  "Final_Output": "1621",
+  "Cummilative_Output": "13071",
+  "Refill_Rejection": "1",
+  "Plug_Rejection": "9",
+  "Cap_Rejection": "29"
+},{
+  "_id": {
+    "$oid": "61af8c07400531529298c95e"
+  },
+  "Date": "Tue Dec 07 2021",
+  "Time_from": "9",
+  "Time_to": "10",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "11250",
+  "Final_Output": "1621",
+  "Cummilative_Output": "13071",
+  "Refill_Rejection": "1",
+  "Plug_Rejection": "9",
+  "Cap_Rejection": "29"
+},{
+  "_id": {
+    "$oid": "61af9a17400531529298c95f"
+  },
+  "Date": "Tue Dec 07 2021",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "15750",
+  "Final_Output": "1621",
+  "Cummilative_Output": "13071",
+  "Refill_Rejection": "1",
+  "Plug_Rejection": "9",
+  "Cap_Rejection": "29"
+},{
+  "_id": {
+    "$oid": "61afa827400531529298c960"
+  },
+  "Date": "Tue Dec 07 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "20250",
+  "Final_Output": "1621",
+  "Cummilative_Output": "13071",
+  "Refill_Rejection": "1",
+  "Plug_Rejection": "9",
+  "Cap_Rejection": "29"
+},{
+  "_id": {
+    "$oid": "61afb637400531529298c961"
+  },
+  "Date": "Wed Dec 08 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "23625",
+  "Final_Output": "1621",
+  "Cummilative_Output": "13071",
+  "Refill_Rejection": "1",
+  "Plug_Rejection": "9",
+  "Cap_Rejection": "29"
+},{
+  "_id": {
+    "$oid": "61afc447400531529298c962"
+  },
+  "Date": "Wed Dec 08 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "28125",
+  "Final_Output": "1621",
+  "Cummilative_Output": "13071",
+  "Refill_Rejection": "1",
+  "Plug_Rejection": "9",
+  "Cap_Rejection": "29"
+},{
+  "_id": {
+    "$oid": "61afd257400531529298c963"
+  },
+  "Date": "Wed Dec 08 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "32625",
+  "Final_Output": "1621",
+  "Cummilative_Output": "13071",
+  "Refill_Rejection": "1",
+  "Plug_Rejection": "9",
+  "Cap_Rejection": "29"
+},{
+  "_id": {
+    "$oid": "61afe067400531529298c964"
+  },
+  "Date": "Wed Dec 08 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "36000",
+  "Final_Output": "1621",
+  "Cummilative_Output": "13071",
+  "Refill_Rejection": "1",
+  "Plug_Rejection": "9",
+  "Cap_Rejection": "29"
+},{
+  "_id": {
+    "$oid": "61afee77400531529298c965"
+  },
+  "Date": "Wed Dec 08 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "40500",
+  "Final_Output": "1621",
+  "Cummilative_Output": "13071",
+  "Refill_Rejection": "1",
+  "Plug_Rejection": "9",
+  "Cap_Rejection": "29"
+},{
+  "_id": {
+    "$oid": "61affc87400531529298c966"
+  },
+  "Date": "Wed Dec 08 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "45000",
+  "Final_Output": "1621",
+  "Cummilative_Output": "13071",
+  "Refill_Rejection": "1",
+  "Plug_Rejection": "9",
+  "Cap_Rejection": "29"
+},{
+  "_id": {
+    "$oid": "61b00a97400531529298c967"
+  },
+  "Date": "Wed Dec 08 2021",
+  "Time_from": "6",
+  "Time_to": "7",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "48375",
+  "Final_Output": "1621",
+  "Cummilative_Output": "13071",
+  "Refill_Rejection": "1",
+  "Plug_Rejection": "9",
+  "Cap_Rejection": "29"
+},{
+  "_id": {
+    "$oid": "61b018a7400531529298c968"
+  },
+  "Date": "Wed Dec 08 2021",
+  "Time_from": "7",
+  "Time_to": "8",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "51750",
+  "Final_Output": "1621",
+  "Cummilative_Output": "13071",
+  "Refill_Rejection": "1",
+  "Plug_Rejection": "9",
+  "Cap_Rejection": "29"
+},{
+  "_id": {
+    "$oid": "61b026b7400531529298c969"
+  },
+  "Date": "Wed Dec 08 2021",
+  "Time_from": "8",
+  "Time_to": "9",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "2250",
+  "Final_Output": "1611",
+  "Cummilative_Output": "1611",
+  "Refill_Rejection": "18",
+  "Plug_Rejection": "21",
+  "Cap_Rejection": "30"
+},{
+  "_id": {
+    "$oid": "61b034c7400531529298c96a"
+  },
+  "Date": "Wed Dec 08 2021",
+  "Time_from": "9",
+  "Time_to": "10",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "5625",
+  "Final_Output": "2172",
+  "Cummilative_Output": "2174",
+  "Refill_Rejection": "19",
+  "Plug_Rejection": "21",
+  "Cap_Rejection": "31"
+},{
+  "_id": {
+    "$oid": "61b1daa77e0cea79bcf5d321"
+  },
+  "Date": "Thu Dec 09 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "29250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61b1e8b77e0cea79bcf5d322"
+  },
+  "Date": "Thu Dec 09 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "33750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61b1f6c77e0cea79bcf5d323"
+  },
+  "Date": "Thu Dec 09 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "38250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61b204d77e0cea79bcf5d324"
+  },
+  "Date": "Thu Dec 09 2021",
+  "Time_from": "6",
+  "Time_to": "7",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "40500",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61b212e77e0cea79bcf5d325"
+  },
+  "Date": "Thu Dec 09 2021",
+  "Time_from": "7",
+  "Time_to": "8",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "4500",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61b220f77e0cea79bcf5d326"
+  },
+  "Date": "Thu Dec 09 2021",
+  "Time_from": "8",
+  "Time_to": "9",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "6750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61b22f077e0cea79bcf5d327"
+  },
+  "Date": "Thu Dec 09 2021",
+  "Time_from": "9",
+  "Time_to": "10",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "11250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61b23d177e0cea79bcf5d328"
+  },
+  "Date": "Thu Dec 09 2021",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "15750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61b24b277e0cea79bcf5d329"
+  },
+  "Date": "Thu Dec 09 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "20250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61b259377e0cea79bcf5d32a"
+  },
+  "Date": "Fri Dec 10 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "23625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61b267477e0cea79bcf5d32b"
+  },
+  "Date": "Fri Dec 10 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "28125",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61b275577e0cea79bcf5d32c"
+  },
+  "Date": "Fri Dec 10 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "32625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61b283677e0cea79bcf5d32d"
+  },
+  "Date": "Fri Dec 10 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "36000",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61b291777e0cea79bcf5d32e"
+  },
+  "Date": "Fri Dec 10 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "40500",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61b29f877e0cea79bcf5d32f"
+  },
+  "Date": "Fri Dec 10 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "45000",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61b2ad977e0cea79bcf5d330"
+  },
+  "Date": "Fri Dec 10 2021",
+  "Time_from": "6",
+  "Time_to": "7",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "48375",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61b2bba77e0cea79bcf5d331"
+  },
+  "Date": "Fri Dec 10 2021",
+  "Time_from": "7",
+  "Time_to": "8",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "51750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61b2c9b77e0cea79bcf5d332"
+  },
+  "Date": "Fri Dec 10 2021",
+  "Time_from": "8",
+  "Time_to": "9",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "2250",
+  "Final_Output": "2981",
+  "Cummilative_Output": "4128",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "9"
+},{
+  "_id": {
+    "$oid": "61b2f3e772eebacecff34cc0"
+  },
+  "Date": "Fri Dec 10 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "14625",
+  "Final_Output": "2765",
+  "Cummilative_Output": "17009",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "3",
+  "Cap_Rejection": "36"
+},{
+  "_id": {
+    "$oid": "61b6be387737b0840cffe7e0"
+  },
+  "Date": "Mon Dec 13 2021",
+  "Time_from": "8",
+  "Time_to": "9",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "2250",
+  "Final_Output": "2284",
+  "Cummilative_Output": "4361",
+  "Refill_Rejection": "19",
+  "Plug_Rejection": "17",
+  "Cap_Rejection": "20"
+},{
+  "_id": {
+    "$oid": "61b6cc477737b0840cffe7e9"
+  },
+  "Date": "Mon Dec 13 2021",
+  "Time_from": "9",
+  "Time_to": "10",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "5625",
+  "Final_Output": "482",
+  "Cummilative_Output": "7231",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "1",
+  "Cap_Rejection": "5"
+},{
+  "_id": {
+    "$oid": "61b6cc477737b0840cffe7ed"
+  },
+  "Date": "Mon Dec 13 2021",
+  "Time_from": "9",
+  "Time_to": "10",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "5625",
+  "Final_Output": "482",
+  "Cummilative_Output": "7231",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "1",
+  "Cap_Rejection": "5"
+},{
+  "_id": {
+    "$oid": "61b6da58b4937bd9d139a042"
+  },
+  "Date": "Mon Dec 13 2021",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "10125",
+  "Final_Output": "895",
+  "Cummilative_Output": "10093",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "1",
+  "Cap_Rejection": "13"
+},{
+  "_id": {
+    "$oid": "61b6e867b4937bd9d139a048"
+  },
+  "Date": "Mon Dec 13 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "14625",
+  "Final_Output": "895",
+  "Cummilative_Output": "10093",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "1",
+  "Cap_Rejection": "13"
+},{
+  "_id": {
+    "$oid": "61b6f677b4937bd9d139a050"
+  },
+  "Date": "Mon Dec 13 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "16875",
+  "Final_Output": "895",
+  "Cummilative_Output": "10093",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "1",
+  "Cap_Rejection": "13"
+},{
+  "_id": {
+    "$oid": "61b70487f16a8e774cfc5325"
+  },
+  "Date": "Mon Dec 13 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "21375",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61b720a7e42027eb98bd649b"
+  },
+  "Date": "Mon Dec 13 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "29250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61baf907f9a89976a35adc8a"
+  },
+  "Date": "Thu Dec 16 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "21375",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61bb4d6733f54256aeda9aaa"
+  },
+  "Date": "Thu Dec 16 2021",
+  "Time_from": "7",
+  "Time_to": "8",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "4500",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61bb5b7733f54256aeda9ab1"
+  },
+  "Date": "Thu Dec 16 2021",
+  "Time_from": "8",
+  "Time_to": "9",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "6750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61bb698733f54256aeda9ab8"
+  },
+  "Date": "Thu Dec 16 2021",
+  "Time_from": "9",
+  "Time_to": "10",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "11250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61bb85a833f54256aeda9ac6"
+  },
+  "Date": "Thu Dec 16 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "20250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61bb93b733f54256aeda9ac8"
+  },
+  "Date": "Fri Dec 17 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "23625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61bba1c733f54256aeda9acf"
+  },
+  "Date": "Fri Dec 17 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "28125",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61bbafd733f54256aeda9ad6"
+  },
+  "Date": "Fri Dec 17 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "32625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61bbbde733f54256aeda9add"
+  },
+  "Date": "Fri Dec 17 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "36000",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61bbcbf733f54256aeda9ae4"
+  },
+  "Date": "Fri Dec 17 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "40500",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61bbda0733f54256aeda9aeb"
+  },
+  "Date": "Fri Dec 17 2021",
+  "Time_from": "5",
+  "Time_to": "6",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "45000",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61bbe81733f54256aeda9af2"
+  },
+  "Date": "Fri Dec 17 2021",
+  "Time_from": "6",
+  "Time_to": "7",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "48375",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61c2b7d71a2b57b93fa5d1aa"
+  },
+  "Date": "Wed Dec 22 2021",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "10125",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61c2c5e71a2b57b93fa5d1b1"
+  },
+  "Date": "Wed Dec 22 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "14625",
+  "Final_Output": "3470",
+  "Cummilative_Output": "3470",
+  "Refill_Rejection": "2",
+  "Plug_Rejection": "61",
+  "Cap_Rejection": "33"
+},{
+  "_id": {
+    "$oid": "61c2d3f71a2b57b93fa5d1b4"
+  },
+  "Date": "Wed Dec 22 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "16875",
+  "Final_Output": "2059",
+  "Cummilative_Output": "5551",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "38",
+  "Cap_Rejection": "53"
+},{
+  "_id": {
+    "$oid": "61c2e2071a2b57b93fa5d1bd"
+  },
+  "Date": "Wed Dec 22 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "21375",
+  "Final_Output": "5130",
+  "Cummilative_Output": "10699",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "74",
+  "Cap_Rejection": "92"
+},{
+  "_id": {
+    "$oid": "61c2f0171a2b57b93fa5d1c0"
+  },
+  "Date": "Wed Dec 22 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "24750",
+  "Final_Output": "121",
+  "Cummilative_Output": "10840",
+  "Refill_Rejection": "1",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "1"
+},{
+  "_id": {
+    "$oid": "61c2fe281a2b57b93fa5d1ca"
+  },
+  "Date": "Wed Dec 22 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "29250",
+  "Final_Output": "121",
+  "Cummilative_Output": "10840",
+  "Refill_Rejection": "1",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "1"
+},{
+  "_id": {
+    "$oid": "61c30c371a2b57b93fa5d1cf"
+  },
+  "Date": "Wed Dec 22 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "33750",
+  "Final_Output": "121",
+  "Cummilative_Output": "10840",
+  "Refill_Rejection": "1",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "1"
+},{
+  "_id": {
+    "$oid": "61c55ad7587210841ab8e085"
+  },
+  "Date": "Fri Dec 24 2021",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "10125",
+  "Final_Output": "3775",
+  "Cummilative_Output": "10007",
+  "Refill_Rejection": "2",
+  "Plug_Rejection": "10",
+  "Cap_Rejection": "119"
+},{
+  "_id": {
+    "$oid": "61c568e7f87b6adb40a10045"
+  },
+  "Date": "Fri Dec 24 2021",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "14625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61c576f7f87b6adb40a1004f"
+  },
+  "Date": "Fri Dec 24 2021",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "16875",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61c58507f87b6adb40a10051"
+  },
+  "Date": "Fri Dec 24 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "21375",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61c59317f87b6adb40a10057"
+  },
+  "Date": "Fri Dec 24 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "24750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61c5a127f87b6adb40a10060"
+  },
+  "Date": "Fri Dec 24 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "29250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61c5af37f87b6adb40a10067"
+  },
+  "Date": "Fri Dec 24 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "33750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61cacb0793f6c37fdc52c692"
+  },
+  "Date": "Tue Dec 28 2021",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "21375",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61cad91793f6c37fdc52c69a"
+  },
+  "Date": "Tue Dec 28 2021",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "24750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61cae72793f6c37fdc52c69f"
+  },
+  "Date": "Tue Dec 28 2021",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "29250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61caf53793f6c37fdc52c6a5"
+  },
+  "Date": "Tue Dec 28 2021",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "33750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61dbe0772d07f90874399b89"
+  },
+  "Date": "Mon Jan 10 2022",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "16875",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61dbee87729e6e23dcd87895"
+  },
+  "Date": "Mon Jan 10 2022",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "21375",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61dbfc97729e6e23dcd8789e"
+  },
+  "Date": "Mon Jan 10 2022",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "24750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61dc0aa7729e6e23dcd878a3"
+  },
+  "Date": "Mon Jan 10 2022",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "29250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61dc18b7afe3a9430b9fa6e4"
+  },
+  "Date": "Mon Jan 10 2022",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "33750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61dd4e178aa2f4a0840e574a"
+  },
+  "Date": "Tue Jan 11 2022",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "24750",
+  "Final_Output": "42",
+  "Cummilative_Output": "27713",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "61dd5c27db6b2ebfc52649ca"
+  },
+  "Date": "Tue Jan 11 2022",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "29250",
+  "Final_Output": "1564",
+  "Cummilative_Output": "29235",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "26"
+},{
+  "_id": {
+    "$oid": "61dd6a37db6b2ebfc52649d0"
+  },
+  "Date": "Tue Jan 11 2022",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "33750",
+  "Final_Output": "3581",
+  "Cummilative_Output": "31252",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "4",
+  "Cap_Rejection": "46"
+},{
+  "_id": {
+    "$oid": "61de8377696c6a941964da39"
+  },
+  "Date": "Wed Jan 12 2022",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "16875",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61de9187696c6a941964da3f"
+  },
+  "Date": "Wed Jan 12 2022",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "21375",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61de9f9793f29ac84d902ecb"
+  },
+  "Date": "Wed Jan 12 2022",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "24750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61deada793f29ac84d902ed3"
+  },
+  "Date": "Wed Jan 12 2022",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "29250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61debbb793f29ac84d902ed7"
+  },
+  "Date": "Wed Jan 12 2022",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "33750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61e6505761d2a610d3ae7c86"
+  },
+  "Date": "Tue Jan 18 2022",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "10125",
+  "Final_Output": "2320",
+  "Cummilative_Output": "7612",
+  "Refill_Rejection": "1",
+  "Plug_Rejection": "6",
+  "Cap_Rejection": "62"
+},{
+  "_id": {
+    "$oid": "61e65e6761d2a610d3ae7c8c"
+  },
+  "Date": "Tue Jan 18 2022",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "14625",
+  "Final_Output": "2320",
+  "Cummilative_Output": "7612",
+  "Refill_Rejection": "1",
+  "Plug_Rejection": "6",
+  "Cap_Rejection": "62"
+},{
+  "_id": {
+    "$oid": "61e66c7761d2a610d3ae7c96"
+  },
+  "Date": "Tue Jan 18 2022",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "16875",
+  "Final_Output": "2320",
+  "Cummilative_Output": "7612",
+  "Refill_Rejection": "1",
+  "Plug_Rejection": "6",
+  "Cap_Rejection": "62"
+},{
+  "_id": {
+    "$oid": "61e67a8761d2a610d3ae7c98"
+  },
+  "Date": "Tue Jan 18 2022",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "21375",
+  "Final_Output": "2320",
+  "Cummilative_Output": "7612",
+  "Refill_Rejection": "1",
+  "Plug_Rejection": "6",
+  "Cap_Rejection": "62"
+},{
+  "_id": {
+    "$oid": "61e688979d8465dcdfe34926"
+  },
+  "Date": "Tue Jan 18 2022",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "24750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61e7e827a7074e8f35a03ca2"
+  },
+  "Date": "Wed Jan 19 2022",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "29250",
+  "Final_Output": "51",
+  "Cummilative_Output": "31441",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "1"
+},{
+  "_id": {
+    "$oid": "61e7f637a7074e8f35a03ca8"
+  },
+  "Date": "Wed Jan 19 2022",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "33750",
+  "Final_Output": "54",
+  "Cummilative_Output": "36680",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "61e8e547af52b684182e79b8"
+  },
+  "Date": "Thu Jan 20 2022",
+  "Time_from": "9",
+  "Time_to": "10",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "5625",
+  "Final_Output": "49",
+  "Cummilative_Output": "3187",
+  "Refill_Rejection": "1",
+  "Plug_Rejection": "1",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "61e8f357af52b684182e79be"
+  },
+  "Date": "Thu Jan 20 2022",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "10125",
+  "Final_Output": "0",
+  "Cummilative_Output": "6989",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "61e90f77af52b684182e79c7"
+  },
+  "Date": "Thu Jan 20 2022",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "16875",
+  "Final_Output": "35",
+  "Cummilative_Output": "11987",
+  "Refill_Rejection": "1",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "8"
+},{
+  "_id": {
+    "$oid": "61e91d87af52b684182e79cd"
+  },
+  "Date": "Thu Jan 20 2022",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "21375",
+  "Final_Output": "50",
+  "Cummilative_Output": "16207",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "61e92b97af52b684182e79d2"
+  },
+  "Date": "Thu Jan 20 2022",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "24750",
+  "Final_Output": "46",
+  "Cummilative_Output": "19752",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "0"
+},{
+  "_id": {
+    "$oid": "61e947b7f36c5d26ab3ceb3d"
+  },
+  "Date": "Thu Jan 20 2022",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "33750",
+  "Final_Output": "177",
+  "Cummilative_Output": "30805",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "0",
+  "Cap_Rejection": "1"
+},{
+  "_id": {
+    "$oid": "61ee2b477fbcd10d34b7cb28"
+  },
+  "Date": "Mon Jan 24 2022",
+  "Time_from": "9",
+  "Time_to": "10",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "5625",
+  "Final_Output": "2207",
+  "Cummilative_Output": "6127",
+  "Refill_Rejection": "0",
+  "Plug_Rejection": "5",
+  "Cap_Rejection": "50"
+},{
+  "_id": {
+    "$oid": "61ee39577fbcd10d34b7cb32"
+  },
+  "Date": "Mon Jan 24 2022",
+  "Time_from": "10",
+  "Time_to": "11",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "10125",
+  "Final_Output": "3282",
+  "Cummilative_Output": "10925",
+  "Refill_Rejection": "4",
+  "Plug_Rejection": "41",
+  "Cap_Rejection": "50"
+},{
+  "_id": {
+    "$oid": "61ee47677fbcd10d34b7cb33"
+  },
+  "Date": "Mon Jan 24 2022",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "14625",
+  "Final_Output": "3385",
+  "Cummilative_Output": "11029",
+  "Refill_Rejection": "4",
+  "Plug_Rejection": "41",
+  "Cap_Rejection": "58"
+},{
+  "_id": {
+    "$oid": "61ee55777fbcd10d34b7cb3d"
+  },
+  "Date": "Mon Jan 24 2022",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "16875",
+  "Final_Output": "3385",
+  "Cummilative_Output": "11029",
+  "Refill_Rejection": "4",
+  "Plug_Rejection": "41",
+  "Cap_Rejection": "58"
+},{
+  "_id": {
+    "$oid": "61ee63877fbcd10d34b7cb42"
+  },
+  "Date": "Mon Jan 24 2022",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "21375",
+  "Final_Output": "3385",
+  "Cummilative_Output": "11029",
+  "Refill_Rejection": "4",
+  "Plug_Rejection": "41",
+  "Cap_Rejection": "58"
+},{
+  "_id": {
+    "$oid": "61ee71977fbcd10d34b7cb46"
+  },
+  "Date": "Mon Jan 24 2022",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "24750",
+  "Final_Output": "3385",
+  "Cummilative_Output": "11029",
+  "Refill_Rejection": "4",
+  "Plug_Rejection": "41",
+  "Cap_Rejection": "58"
+},{
+  "_id": {
+    "$oid": "61ee7fa77fbcd10d34b7cb50"
+  },
+  "Date": "Mon Jan 24 2022",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "29250",
+  "Final_Output": "3385",
+  "Cummilative_Output": "11029",
+  "Refill_Rejection": "4",
+  "Plug_Rejection": "41",
+  "Cap_Rejection": "58"
+},{
+  "_id": {
+    "$oid": "61ee8db77fbcd10d34b7cb56"
+  },
+  "Date": "Mon Jan 24 2022",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "33750",
+  "Final_Output": "3385",
+  "Cummilative_Output": "11029",
+  "Refill_Rejection": "4",
+  "Plug_Rejection": "41",
+  "Cap_Rejection": "58"
+},{
+  "_id": {
+    "$oid": "61f39b772bca37beca59c802"
+  },
+  "Date": "Fri Jan 28 2022",
+  "Time_from": "12",
+  "Time_to": "1",
+  "Production_Plan_Quantity": "2250",
+  "Cummilative_Plan_Quantity": "16875",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61f3a9872bca37beca59c807"
+  },
+  "Date": "Fri Jan 28 2022",
+  "Time_from": "1",
+  "Time_to": "2",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "21375",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61f3b7972bca37beca59c80f"
+  },
+  "Date": "Fri Jan 28 2022",
+  "Time_from": "2",
+  "Time_to": "3",
+  "Production_Plan_Quantity": "3375",
+  "Cummilative_Plan_Quantity": "24750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61f3c5a72bca37beca59c815"
+  },
+  "Date": "Fri Jan 28 2022",
+  "Time_from": "3",
+  "Time_to": "4",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "29250",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "61f3d3b82bca37beca59c81e"
+  },
+  "Date": "Fri Jan 28 2022",
+  "Time_from": "4",
+  "Time_to": "5",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "33750",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+},{
+  "_id": {
+    "$oid": "6200bc67dbfc015bd7ba238e"
+  },
+  "Date": "Mon Feb 07 2022",
+  "Time_from": "11",
+  "Time_to": "12",
+  "Production_Plan_Quantity": "4500",
+  "Cummilative_Plan_Quantity": "14625",
+  "Final_Output": null,
+  "Cummilative_Output": null,
+  "Refill_Rejection": null,
+  "Plug_Rejection": null,
+  "Cap_Rejection": null
+}]
