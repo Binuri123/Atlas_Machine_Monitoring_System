@@ -10,6 +10,7 @@ const prodRoutePA04 = require('../server/routes/prod.routesPA04')
 const prodRoutePA08 = require('../server/routes/prod.routesPA08')
 const prodRoutePA07 = require('../server/routes/prod.routesPA07')
 const prodRoutePA06 = require('../server/routes/prod.routesPA06')
+const prodRoutePA03 = require('../server/routes/prod.routesPA03')
 
 
 mongoose.Promise = global.Promise;
@@ -34,6 +35,7 @@ app.use('/productionsPA04', prodRoutePA04)
 app.use('/productionsPA08', prodRoutePA08)
 app.use('/productionsPA07', prodRoutePA07)
 app.use('/productionsPA06', prodRoutePA06)
+app.use('/productionsPA03', prodRoutePA03)
 
 const port = process.env.PORT || 4999;
 const server = app.listen(port, () => {

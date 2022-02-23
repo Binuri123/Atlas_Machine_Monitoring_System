@@ -9,7 +9,8 @@ const http = require("http").Server(express);
 const topic1 = '+/pa04/pa04dash/0404';
 const topic2 = '+/pa08/pa08dash/0808';
 const topic3 = '+/pa07/pa07dash/0707';
-const topic3 = '+/pa06/pa06dash/0606';
+const topic4 = '+/pa06/pa06dash/0606';
+const topic5 = '+/pa03/pa03dash/0303';
 
 // const url = 'mongodb://localhost:27017/';
 
@@ -22,10 +23,10 @@ const io = require("socket.io")(http, {
   }
 });
 
-var pa04, pa06, pa07, pa08
-var pa04oee, pa06oee, pa07oee, pa08oee
-var pa04hprod, pa06hprod, pa07hprod, pa08hprod
-var pa04sprod, pa06sprod, pa07sprod, pa08sprod
+var pa04, pa03, pa06, pa07, pa08
+var pa04oee, pa03oee, pa06oee, pa07oee, pa08oee
+var pa04hprod, pa03hprod, pa06hprod, pa07hprod, pa08hprod
+var pa04sprod, pa03sprod, pa06sprod, pa07sprod, pa08sprod
 
 server = require('http').Server(app);
 PORT = process.env.PORT || 5058;
@@ -130,6 +131,27 @@ mqttclient.on("connect",function(){
     
             });
         });
+
+        mqttclient.subscribe(topic4, function () {
+          mqttclient.on('message', function (topic5, message, packet) {
+            // console.log(message.toString());
+            
+            if (topic5 == 'data/pa03/pa03dash/0303'){
+                pa03 = message;
+            }
+
+            if (pa03){
+              
+              var jsonPa03 = JSON.parse(pa03.toString());
+              console.log(jsonPa03);
+                pa03hprod = jsonPa03.productionHourly;
+                pa03sprod = jsonPa03.productionShift;
+                pa03oee = jsonPa03.oeeHourly;      
+              // console.log(hcap);
+            }
+    
+            });
+        });
           
     io.sockets.emit('json', {
 
@@ -144,7 +166,10 @@ mqttclient.on("connect",function(){
         datapa07oee: pa07oee,
         datapa06sprod: pa06sprod,
         datapa06hprod: pa06hprod,
-        datapa06oee: pa06oee
+        datapa06oee: pa06oee,
+        datapa03sprod: pa03sprod,
+        datapa03hprod: pa03hprod,
+        datapa03oee: pa03oee
         // datac: secs,
         // datam: minute
     });

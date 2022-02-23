@@ -19,6 +19,7 @@ const DocketdbPA04 = require('../server/Assembly/docketdbPA04')
 const DocketdbPA08 = require('../server/Assembly/docketdbPA08')
 const DocketdbPA07 = require('../server/Assembly/docketdbPA07')
 const DocketdbPA06 = require('../server/Assembly/docketdbPA06')
+const DocketdbPA03 = require('../server/Assembly/docketdbPA03')
 
 const DocketdbFM8 = require('../server/Printing/docketdbFM8')
 const DocketdbWEB2 = require('../server/Printing/docketdbWEB2')
